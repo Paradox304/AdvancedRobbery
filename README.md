@@ -10,4 +10,4 @@
 #### Commands
 /rob (player name) = Rob a player. (Permission: rob)
 
-
+Download the plugin from here: https://github.com/Paradox304/AdvancedRobbery/releases
